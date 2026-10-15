@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+html, body, [class*="css"] { font-family: 'Inter', sans-serif; }
+#MainMenu, footer, header [data-testid="stToolbar"] { visibility: hidden; }
+.block-container { padding-top: 2rem; max-width: 1200px; }
+.page-title { font-size: 2rem; font-weight: 700; color: #064e3b; }
+.page-sub { color: #6b7280; margin-bottom: 1.2rem; }
+.fp-card { background: #fff; border-radius: 16px; padding: 18px; box-shadow: 0 4px 14px rgba(0,0,0,.07);
+  border: 1px solid #ecfdf5; margin-bottom: 12px; transition: transform .2s; }
+.fp-card:hover { transform: translateY(-3px); }
+.fp-label { color: #6b7280; font-size: .85rem; }
+.fp-value { font-size: 1.7rem; font-weight: 700; color: #047857; }
+.fp-hint { color: #9ca3af; font-size: .75rem; }
+.hero { background: linear-gradient(135deg,#065f46,#10b981); color: #fff; border-radius: 24px;
+  padding: 48px 32px; text-align: center; margin-bottom: 24px; animation: fadeIn .8s ease; }
+.hero h1 { font-size: 2.6rem; margin: 0; } .hero p { font-size: 1.1rem; opacity: .95; }
+.feature { background:#fff; border-radius:16px; padding:18px; box-shadow:0 4px 14px rgba(0,0,0,.07); height:100%; }
+.fp-disclaimer { background:#fffbeb; border-left:4px solid #f59e0b; padding:10px 14px; border-radius:8px;
+  font-size:.8rem; color:#92400e; margin-top:16px; }
+.demo-badge { background:#fef3c7; color:#92400e; padding:4px 10px; border-radius:999px; font-size:.75rem; font-weight:600; }
+.badge { display:inline-block; background:#ecfdf5; border:1px solid #6ee7b7; border-radius:14px; padding:10px 14px; margin:4px; }
+.badge.locked { background:#f3f4f6; border-color:#e5e7eb; opacity:.55; filter:grayscale(1); }
+.bmi-bar { position:relative; display:flex; height:16px; border-radius:8px; overflow:visible; margin-top:34px; }
+.bmi-bar span { height:100%; } .bmi-bar span:first-child { border-radius:8px 0 0 8px; } .bmi-bar span:nth-child(4) { border-radius:0 8px 8px 0; }
+.bmi-marker { position:absolute; top:-38px; transform:translateX(-50%); text-align:center; font-size:.8rem; line-height:1; }
+.bmi-labels { display:flex; justify-content:space-between; font-size:.7rem; color:#6b7280; margin-top:6px; }
+@keyframes fadeIn { from { opacity:0; transform:translateY(12px);} to { opacity:1; transform:none; } }
+@media (max-width: 640px) { .hero h1 { font-size: 1.8rem; } .page-title { font-size: 1.5rem; } }

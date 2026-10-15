@@ -1,0 +1,45 @@
+name,diet_type,category,serving,calories,protein,carbs,fats,allergen
+Poha,veg,breakfast,1 plate (150 g),250,5,45,6,none
+Upma,veg,breakfast,1 bowl (200 g),220,6,35,6,gluten
+Idli,vegan,breakfast,3 pieces,180,6,36,1,none
+Dosa,vegan,breakfast,2 pieces,260,6,44,6,none
+Oats porridge,veg,breakfast,1 bowl (250 ml),200,7,34,4,gluten
+Besan chilla,vegan,breakfast,2 pieces,240,12,28,8,none
+Moong dal chilla,vegan,breakfast,2 pieces,200,12,26,5,none
+Vegetable sandwich,veg,breakfast,2 slices,230,7,38,5,gluten
+Tofu scramble,vegan,breakfast,1 bowl (150 g),170,15,4,10,soy
+Egg omelette,nonveg,breakfast,2 eggs,180,12,2,14,egg
+Boiled eggs,nonveg,breakfast,2 eggs,156,13,1,11,egg
+Roti,vegan,carb,1 piece,100,3,18,2,gluten
+Steamed rice,vegan,carb,1 cup (150 g),205,4,45,0,none
+Brown rice,vegan,carb,1 cup (150 g),215,5,45,2,none
+Jeera rice,vegan,carb,1 cup (150 g),240,5,44,5,none
+Quinoa,vegan,carb,1 cup (185 g),222,8,39,4,none
+Dal tadka,vegan,protein,1 bowl (200 g),180,10,24,5,none
+Rajma,vegan,protein,1 bowl (200 g),210,12,32,3,none
+Chole,vegan,protein,1 bowl (200 g),240,12,35,6,none
+Soya chunks curry,vegan,protein,1 bowl (150 g),200,24,14,4,soy
+Tofu curry,vegan,protein,1 bowl (150 g),190,16,8,11,soy
+Paneer bhurji,veg,protein,100 g paneer,260,16,6,19,dairy
+Palak paneer,veg,protein,1 bowl (200 g),280,14,10,20,dairy
+Curd,veg,protein,1 bowl (150 g),98,11,4,4,dairy
+Grilled chicken breast,nonveg,protein,150 g,248,46,0,5,none
+Chicken curry,nonveg,protein,1 bowl (200 g),250,28,6,12,none
+Fish curry,nonveg,protein,1 bowl (200 g),220,24,5,11,fish
+Egg curry,nonveg,protein,1 bowl (200 g),230,14,6,16,egg
+Mixed vegetable sabzi,vegan,side,1 bowl (150 g),120,3,14,6,none
+Aloo gobi,vegan,side,1 bowl (150 g),150,3,20,7,none
+Bhindi sabzi,vegan,side,1 bowl (150 g),110,2,10,7,none
+Cucumber tomato salad,vegan,side,1 bowl (150 g),40,2,8,0,none
+Sprouts salad,vegan,side,1 bowl (150 g),110,8,18,1,none
+Banana,vegan,snack,1 medium,105,1,27,0,none
+Apple,vegan,snack,1 medium,95,0,25,0,none
+Fruit chaat,vegan,snack,1 bowl (150 g),120,1,30,0,none
+Roasted chana,vegan,snack,1 handful (30 g),120,6,20,2,none
+Almonds,vegan,snack,10 pieces,70,3,3,6,nuts
+Peanuts roasted,vegan,snack,1 handful (30 g),160,7,5,14,nuts
+Walnuts,vegan,snack,5 halves,100,2,2,10,nuts
+Milk,veg,snack,1 glass (250 ml),150,8,12,8,dairy
+Buttermilk,veg,snack,1 glass (250 ml),40,2,5,1,dairy
+Protein shake,veg,snack,1 scoop + water,120,24,3,1,dairy
+Boiled egg,nonveg,snack,1 egg,78,6,1,5,egg

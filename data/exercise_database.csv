@@ -1,0 +1,36 @@
+name,muscle_group,workout_type,equipment,difficulty,sets,reps,rest_sec,instructions
+Push-ups,Chest,Strength,None,Beginner,3,12,60,Hands shoulder-width apart; lower chest to floor keeping body straight; push back up.
+Incline push-ups,Chest,Strength,None,Beginner,3,12,60,Hands on a raised surface; lower chest to the edge and press up.
+Dumbbell bench press,Chest,Strength,Dumbbells,Intermediate,4,10,75,Lie on a bench; press dumbbells up from chest until arms are straight; lower slowly.
+Barbell bench press,Chest,Strength,Gym,Advanced,4,8,90,Lower the bar to mid-chest under control; drive it up without bouncing.
+Triceps dips (chair),Arms,Strength,None,Beginner,3,10,60,Hands on a chair edge; bend elbows to 90 degrees; press back up.
+Dumbbell triceps extension,Arms,Strength,Dumbbells,Intermediate,3,12,60,Hold one dumbbell overhead with both hands; lower behind head; extend.
+Dumbbell bicep curls,Arms,Strength,Dumbbells,Beginner,3,12,60,Keep elbows fixed at your sides; curl the weights up and lower slowly.
+Hammer curls,Arms,Strength,Dumbbells,Intermediate,3,12,60,Palms facing each other; curl up without swinging the body.
+Superman hold,Back,Mobility,None,Beginner,3,10,45,Lie face down; lift arms and legs together; hold 2 seconds; lower.
+Bent-over dumbbell row,Back,Strength,Dumbbells,Intermediate,4,10,75,Hinge forward with flat back; pull dumbbells to your hips; squeeze shoulder blades.
+Lat pulldown,Back,Strength,Gym,Intermediate,4,10,75,Pull the bar to upper chest keeping chest up; return slowly.
+Pull-ups,Back,Strength,Gym,Advanced,4,6,90,Grip bar slightly wider than shoulders; pull chin above the bar; lower fully.
+Bodyweight squats,Legs,Strength,None,Beginner,3,15,60,Feet shoulder-width; sit hips back and down; keep chest up; stand.
+Lunges,Legs,Strength,None,Beginner,3,12,60,Step forward and lower the back knee toward the floor; push back to start.
+Glute bridge,Legs,Strength,None,Beginner,3,15,45,Lie on back with knees bent; lift hips and squeeze glutes; lower.
+Goblet squat,Legs,Strength,Dumbbells,Intermediate,4,12,75,Hold a dumbbell at chest; squat deep keeping heels down.
+Romanian deadlift,Legs,Strength,Dumbbells,Intermediate,4,10,90,Hinge at hips with soft knees; lower weights along legs; stand tall.
+Barbell back squat,Legs,Strength,Gym,Advanced,4,8,120,Bar on upper back; squat to parallel; drive through heels.
+Pike push-ups,Shoulders,Strength,None,Intermediate,3,10,60,Hips high in an inverted V; lower head toward the floor; press up.
+Dumbbell shoulder press,Shoulders,Strength,Dumbbells,Intermediate,4,10,75,Press dumbbells overhead from shoulder height; lower under control.
+Lateral raises,Shoulders,Strength,Dumbbells,Beginner,3,12,45,Raise dumbbells to shoulder height with slight elbow bend; lower slowly.
+Plank,Core,Core,None,Beginner,3,30 sec,45,Forearms on floor; keep body straight from head to heels; breathe steadily.
+Bicycle crunches,Core,Core,None,Beginner,3,20,45,Alternate elbow to opposite knee while the legs pedal.
+Russian twists,Core,Core,None,Intermediate,3,20,45,Lean back slightly; rotate torso side to side touching the floor.
+Leg raises,Core,Core,None,Intermediate,3,12,60,Lie flat; lift straight legs to 90 degrees; lower slowly without arching back.
+Jumping jacks,Cardio,Cardio,None,Beginner,3,40 sec,30,Jump feet apart while raising arms overhead; return and repeat.
+High knees,Cardio,Cardio,None,Beginner,3,30 sec,30,Run in place driving knees to hip height.
+Burpees,Cardio,HIIT,None,Intermediate,3,10,60,Squat; jump feet back; push-up; jump up with arms overhead.
+Mountain climbers,Cardio,HIIT,None,Intermediate,3,30 sec,30,From plank; drive knees to chest alternately at speed.
+Treadmill brisk walk/run,Cardio,Cardio,Gym,Beginner,1,20 min,0,Maintain a steady pace; raise incline gradually if comfortable.
+Skipping rope,Cardio,Cardio,None,Intermediate,3,2 min,45,Light jumps on the balls of your feet; keep wrists relaxed.
+Dumbbell thrusters,Full Body,HIIT,Dumbbells,Advanced,4,12,60,Squat holding dumbbells at shoulders; stand and press overhead in one move.
+Cat-cow stretch,Full Body,Flexibility,None,Beginner,2,10,15,On hands and knees; alternate arching and rounding your back slowly.
+Downward dog,Full Body,Flexibility,None,Beginner,2,30 sec,15,Hips up and back; heels toward the floor; lengthen the spine.
+Hamstring stretch,Legs,Flexibility,None,Beginner,2,30 sec,15,Sit with one leg extended; hinge forward from the hips; hold.
